@@ -124,6 +124,7 @@ h3,
 h4,
 .ts-h4 {
     margin-bottom: 1.875rem;
+    text-transform: uppercase;
 }
 
 h5,
